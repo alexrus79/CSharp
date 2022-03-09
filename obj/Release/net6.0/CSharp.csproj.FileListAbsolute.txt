@@ -1,0 +1,15 @@
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/CSharp
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/CSharp.deps.json
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/CSharp.runtimeconfig.json
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/CSharp.dll
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/CSharp.pdb
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.csproj.AssemblyReference.cache
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.AssemblyInfoInputs.cache
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.AssemblyInfo.cs
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.csproj.CoreCompileInputs.cache
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.dll
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/refint/CSharp.dll
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.pdb
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/CSharp.genruntimeconfig.cache
+/home/alexrus/Documents/frontend/2022/CSharp/obj/Release/net6.0/ref/CSharp.dll

@@ -1,0 +1,5 @@
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/publish/CSharp
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/publish/CSharp.dll
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/publish/CSharp.deps.json
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/publish/CSharp.runtimeconfig.json
+/home/alexrus/Documents/frontend/2022/CSharp/bin/Release/net6.0/publish/CSharp.pdb
